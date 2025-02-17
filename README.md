@@ -30,8 +30,8 @@ En esta unidad, programarás un juego de vista aérea con el objetivo de lanzar 
 Resumen:
 En esta Unidad programarás un juego para probar los reflejos del jugador, en el cual el objetivo es hacer clic y destruir objetos lanzados por el aire aleatoriamente antes de que caigan y desaparezcan por la parte inferior de la pantalla. Al crear este prototipo, aprenderás a implementar una interfaz de usuario (UI) en tus proyectos. Agregarás una pantalla de título con un menú de selección de dificultad que controlará el nivel de desafío de la jugabilidad, agregarás un monitor de puntaje que dará seguimiento a los puntos que ha obtenido el jugador y agregarás una pantalla de Fin del juego que permitirá a los jugadores reiniciar y intentar de nuevo. Al aprender estas habilidades, podrás crear una experiencia «jugable» completa que el usuario puede disfrutar de inicio a fin sin tener que reiniciar la aplicación para intentarlo de nuevo. 
 
-## Challenge 5:
-Desafio:
+![image](https://github.com/user-attachments/assets/1222df19-2ac3-44a4-9a01-70341c296468)
+
 
 # Casa
 ( Esta parte está hecha unicamente para completar el curso y aprender ppor mi cuenta )
