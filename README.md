@@ -21,7 +21,10 @@ La cámara sigue al avión mientras vuela.
 
 ## Actividad 2 
 Resumen:
-En esta unidad, programarás un juego de vista aérea con el objetivo de lanzar comida a los animales hambrientos (que vienen en estampida hacia ti) antes de que te esquiven. Para ello, te familiarizarás con algunos de los conceptos más importantes de la programación y de Unity, como las declaraciones condicionales, la generación de valores aleatorios, los arreglos, la detección de colisiones, los Prefabs y las posiciones de una instancia. Al completar esta unidad, aprenderás a programar un juego básico que permita lanzar proyectiles y mover al jugador para mantener el juego vivo. 
+En esta unidad, programarás un juego de vista aérea con el objetivo de lanzar comida a los animales hambrientos (que vienen en estampida hacia ti) antes de que te esquiven. Para ello, te familiarizarás con algunos de los conceptos más importantes de la programación y de Unity, como las declaraciones condicionales, la generación de valores aleatorios, los arreglos, la detección de colisiones, los Prefabs y las posiciones de una instancia. Al completar esta unidad, aprenderás a programar un juego básico que permita lanzar proyectiles y mover al jugador para mantener el juego vivo.
+
+![image](https://github.com/user-attachments/assets/717cec8f-285c-4cd2-9b00-728920af4cb8)
+
 
 ## Actividad 5
 Resumen:
